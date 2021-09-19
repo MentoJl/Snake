@@ -124,7 +124,4 @@ int main() {
 	srand(time(0));
 	Snake fragment;
 	std::cout << "\n\nYou are failed.";
-	/*do {
-		system("start https://www.youtube.com/watch?v=5xy4n73WOMM");
-	} while (true);*/
 }
